@@ -50,6 +50,8 @@
 </div>
 
 ### :fire: Meus status:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gugonunes&theme=ayu-light&border=02C4DD&stroke=02C4DD&ring=02C4DD&currStreakNum=FF5400&fire=FF5400&currStreakLabel=FF5400&sideNums=FF5400)](https://git.io/streak-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugonunes&layout=compact&theme=buefy" align="right"/>
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gugonunes&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gugonunes&theme=buefy)](https://git.io/streak-stats)
