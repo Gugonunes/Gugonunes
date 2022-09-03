@@ -51,7 +51,7 @@
 
 ### :fire: Meus status:
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugonunes&layout=compact&theme=buefy" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugonunes&theme=buefy" align="right"/>
 </a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gugonunes&theme=buefy)](https://git.io/streak-stats)
