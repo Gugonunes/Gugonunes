@@ -8,7 +8,28 @@
 - 💼 Estágiario em desenvolvimento na PontoTel!
 - 🤖📊 Iniciando estudos em Machine Learning e Engenharia de Dados
 
+
+### Entre em contato comigo!
+<div id="contatos">
+  <a href="https://www.linkedin.com/in/gustavo-atn/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/gustavo_atn/" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-violet?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</div>
+
+### :fire: Meus status:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gugonunes&theme=buefy)](https://git.io/streak-stats)
+
 ### :hammer_and_wrench: Linguagens e ferramentas
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugonunes&layout=compact&theme=buefy" align="right"/>
+</a>
+
+### 　 <!-- aqui do lado do ### tem um caractere invisivel, apenas para quebrar linha das imagens sem bugar -->
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
@@ -37,24 +58,3 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-
- 
-<br />
-<br />
-
-### Entre em contato comigo!
-<div id="contatos">
-  <a href="https://www.linkedin.com/in/gustavo-atn/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/gustavo_atn/" alt="Instagram">
-    <img src="https://img.shields.io/badge/Instagram-violet?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-</div>
-
-### :fire: Meus status:
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugonunes&theme=buefy" align="right"/>
-</a>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gugonunes&theme=buefy)](https://git.io/streak-stats)
