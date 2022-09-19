@@ -6,7 +6,7 @@
 - 📖 Sou estudante de Engenharia de Computação (UTFPR-PB)
 - 👨‍💻 Sou também um desenvolvedor
 - 💼 Estágiario em desenvolvimento na PontoTel!
-- 🤖📊 Iniciando estudos em Machine Learning e Engenharia de Dados
+- 🤖🧠 Iniciando estudos em Inteligência Artificial e Machine Learning
 
 
 ### Entre em contato comigo!
