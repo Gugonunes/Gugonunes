@@ -5,7 +5,7 @@
 ### :man_technologist: Algumas informações sobre mim
 - 📖 Sou estudante de Engenharia de Computação (UTFPR-PB)
 - 👨‍💻 Sou também um desenvolvedor
-- 💼 Estágiario em desenvolvimento na PontoTel!
+- 💼 Estagiário em desenvolvimento na PontoTel!
 - 🤖🧠 Iniciando estudos em Inteligência Artificial e Machine Learning
 
 
