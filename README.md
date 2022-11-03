@@ -6,6 +6,7 @@
 - 📖 Sou estudante de Engenharia de Computação (UTFPR-PB)
 - 👨‍💻 Sou também um desenvolvedor
 - 💼 Estagiário em desenvolvimento na PontoTel!
+- 🐍 Aprofundando conhecimentos em Python
 - 🤖🧠 Iniciando estudos em Inteligência Artificial e Machine Learning
 
 
@@ -20,7 +21,7 @@
 </div>
 
 ### :fire: Meus status:
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gugonunes&theme=monokai&margin-w=5&margin-h=5&rank=-?" alt="Gugonunes" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gugonunes&theme=monokai&margin-w=5&margin-h=5&rank=-?,-C" alt="Gugonunes" /></a> </p>
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gugonunes&theme=buefy)](https://git.io/streak-stats) -->
 
 ### :hammer_and_wrench: Linguagens e ferramentas
