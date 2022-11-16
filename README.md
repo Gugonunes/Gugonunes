@@ -2,9 +2,9 @@
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="width:350px;" align="right"/>
 
-### :man_technologist: Algumas informações sobre mim
+### ℹ️: Algumas informações sobre mim
 - 📖 Sou estudante de Engenharia de Computação (UTFPR-PB)
-- 👨‍💻 Sou também um desenvolvedor
+- 👨‍💻 Sou também um desenvolvedor Front-End
 - 💼 Estagiário em desenvolvimento na PontoTel!
 - 🐍 Aprofundando conhecimentos em Python
 - 🤖🧠 Iniciando estudos em Inteligência Artificial e Machine Learning
@@ -44,8 +44,9 @@
 
 <img align="left" alt="Postgres" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 
-
 <img align="left" alt="Mysql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+
+<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/linux/linux.png" />
 
 ### 　 <!-- aqui do lado do ### tem um caractere invisivel, apenas para quebrar linha das imagens sem bugar -->
 
