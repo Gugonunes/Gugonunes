@@ -7,7 +7,6 @@
 - 💼 Estagiário em desenvolvimento Front-End na PontoTel!
 - 🐍 Aprofundando conhecimentos em Python
 - 🤖🧠 Aprendendo Inteligência Artificial e Machine Learning
-- 👨‍💻 Iniciando estudos de Back-End
 
 
 ### Entre em contato comigo!
