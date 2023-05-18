@@ -4,7 +4,7 @@
 
 ### ℹ️: Algumas informações sobre mim
 - 📖 Sou estudante de Engenharia de Computação (UTFPR-PB) - 7º semestre
-- 💼 Estagiário em desenvolvimento Front-End na PontoTel!
+- 💼 Estagiário em desenvolvimento web Front-End na PontoTel!
 - 🐍 Aprofundando conhecimentos em Python
 - 🤖🧠 Aprendendo Inteligência Artificial e Machine Learning
 - 🧑‍💻 Bolsista de Iniciação Científica pela UTFPR, utilizando Inteligência Artificial e Processamento de Imagens
