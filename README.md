@@ -1,7 +1,5 @@
 <h1> Olá, me chamo Gustavo! </h1>
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="width:350px;" align="right"/>
-
 ### ℹ️: Algumas informações sobre mim
 - 📖 Sou estudante de Engenharia de Computação (UTFPR-PB) - 7º semestre
 - 💼 Estagiário em desenvolvimento web Front-End na PontoTel!
