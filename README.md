@@ -1,7 +1,7 @@
 <h1> Olá, me chamo Gustavo! </h1>
 
 ### ℹ️: Algumas informações sobre mim
-- 📖 Sou estudante de Engenharia de Computação (UTFPR-PB) - 10º semestre
+- 📖 Sou estudante de Engenharia de Computação (UTFPR-PB) - Semestre 10 / 10
 - 💼 Estagiário em desenvolvimento web na PONTOTEL!
 - 🐍 Aprofundando conhecimentos em Python
 - 🤖🧠 Aprendendo Engenharia de Dados
