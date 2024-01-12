@@ -4,7 +4,6 @@
 - 📖 Sou estudante de Engenharia de Computação (UTFPR-PB) - Semestre 10 / 10
 - 💼 Estagiário em desenvolvimento web na PONTOTEL!
 - 🐍 Aprofundando conhecimentos em Python
-- 🤖🧠 Aprendendo Engenharia de Dados
 - 🧑‍💻 Bolsista de Iniciação Científica pela UTFPR, utilizando Inteligência Artificial e Processamento de Imagens
 
 
