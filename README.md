@@ -3,7 +3,7 @@
 ### ℹ️: Algumas informações sobre mim
 - 📖 Engenheiro de Computação (UTFPR-PB)
 - 💼 Analista de Desenvolvimento JR I na PONTOTEL!
-- 🧑‍💻 Bolsista de Iniciação Científica pela UTFPR, utilizando Inteligência Artificial e Processamento de Imagens
+- 🧑‍💻 Mestrando em Ciência de Computação pelo ICMC na USP.
 
 
 ### Entre em contato comigo!
