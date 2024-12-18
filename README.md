@@ -2,7 +2,7 @@
 
 ### ℹ️: Algumas informações sobre mim
 - 📖 Engenheiro de Computação (UTFPR-PB)
-- 💼 Desenvolvedor Backend na PONTOTEL!
+- 💼 Desenvolvedor Backend Pleno 2 na Mercos!
 - 🧑‍💻 Mestrando em Ciência de Computação pelo ICMC na USP.
 
 
