@@ -1,12 +1,12 @@
-<h1> Olá, me chamo Gustavo! </h1>
+<h1> Hello, my name is Gustavo! </h1>
 
-### ℹ️: Algumas informações sobre mim
-- 📖 Engenheiro de Computação (UTFPR-PB)
-- 💼 Desenvolvedor Full Stack Pleno na Mercos!
-- 🧑‍💻 Mestrando em Ciência de Computação pelo ICMC na USP.
+### ℹ️: Some information about me
+- 📖 Computer Engineer (UTFPR-PB)
+- 💼 Mid-Level Full Stack Developer at Mercos!
+- 🧑‍💻 Master's student in Computer Science at ICMC, USP.
 
 
-### Entre em contato comigo!
+### Get in touch with me!
 <div id="contatos">
   <a href="https://www.linkedin.com/in/gustavo-atn/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -16,11 +16,11 @@
   </a>
 </div>
 
-### :fire: Meus status:
+### :fire: My status:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gugonunes&theme=monokai&margin-w=5&margin-h=5&rank=-?,-C" alt="Gugonunes" /></a> </p>
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gugonunes&theme=buefy)](https://git.io/streak-stats) -->
 
-### :hammer_and_wrench: Linguagens e ferramentas
+### :hammer_and_wrench: Languages and tools
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugonunes&layout=compact&theme=buefy" align="right"/>
