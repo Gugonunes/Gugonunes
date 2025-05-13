@@ -2,7 +2,7 @@
 
 ### ℹ️: Some information about me
 - 📖 Computer Engineer (UTFPR-PB)
-- 💼 Mid-Level Full Stack Developer at Mercos!
+- 💼 Machine Learning Engineer at Sizebay!
 - 🧑‍💻 Master's student in Computer Science at ICMC, USP.
 
 
