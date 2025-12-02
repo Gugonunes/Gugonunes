@@ -2,7 +2,7 @@
 
 ### ℹ️: Some information about me
 - 📖 Computer Engineer (UTFPR-PB)
-- 💼 Machine Learning Engineer at Sizebay!
+- 💼 Machine Learning Specialist at Act / AbInbev global team!
 - 🧑‍💻 Master's student in Computer Science at ICMC, USP.
 
 
